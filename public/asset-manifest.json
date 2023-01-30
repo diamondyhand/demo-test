@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00a811e1.chunk.css",
+    "main.js": "/static/js/main.8248f111.chunk.js",
+    "main.js.map": "/static/js/main.8248f111.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.bd744218.js",
+    "runtime~main.js.map": "/static/js/runtime~main.bd744218.js.map",
+    "static/css/2.a934fa1a.chunk.css": "/static/css/2.a934fa1a.chunk.css",
+    "static/js/2.a4302339.chunk.js": "/static/js/2.a4302339.chunk.js",
+    "static/js/2.a4302339.chunk.js.map": "/static/js/2.a4302339.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ea9af4a6349cf7cf61cdd68e75afec59.js": "/precache-manifest.ea9af4a6349cf7cf61cdd68e75afec59.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.a934fa1a.chunk.css.map": "/static/css/2.a934fa1a.chunk.css.map",
+    "static/css/main.00a811e1.chunk.css.map": "/static/css/main.00a811e1.chunk.css.map",
+    "static/media/index.css": "/static/media/ibm-plex-sans-latin-700italic.72e9af40.woff"
+  }
+}
